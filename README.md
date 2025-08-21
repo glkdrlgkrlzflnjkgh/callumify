@@ -10,4 +10,4 @@ Why settle for silent scripts when you could start your day with a dose of wisdo
 
 ## Installation
 ```bash
-pip install callumify
+git clone https://github.com/glkdrlgkrlzflnjkgh/callumify/callumify.git
