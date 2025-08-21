@@ -1,0 +1,28 @@
+Metadata-Version: 2.2
+Name: Callumify
+Version: 0.2.0
+Summary: Some handy-dandy print related functions that you'll probably never use... (yes, we even have a quote of the day function)
+Home-page: https://github.com/CallumDev/Callumify
+Author: Callum
+Author-email: xcallumnicx@gmail.com
+License: Callum-Public-Liscence
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Intended Audience :: Developers
+Requires-Python: >=3.6
+Description-Content-Type: text/plain
+Requires-Dist: pygame-ce
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Note that Callumify comes under the totally not fictional Callum-Public-Liscence (this liscense is technically canon now). Use responsibly.
