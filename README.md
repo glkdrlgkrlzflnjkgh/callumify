@@ -6,8 +6,11 @@ Why settle for silent scripts when you could start your day with a dose of wisdo
 
 ## Features
 - `quote_of_the_day()` – because your terminal deserves a pep talk.
+- 'grUHHHHHHMble()' - because the terminal wants to GRRRR!
 - More coming soon... maybe. If Callum feels like it.
 
 ## Installation
 ```bash
 git clone https://github.com/glkdrlgkrlzflnjkgh/callumify/callumify.git
+cd callumify
+pip install .
